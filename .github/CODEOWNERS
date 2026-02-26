@@ -1,0 +1,8 @@
+# Default
+* @team-lead-username
+
+# Crypto
+/src/crypto/ @crypto-dev
+
+# Password Manager
+/src/password/ @security-dev
